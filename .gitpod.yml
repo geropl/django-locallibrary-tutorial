@@ -13,3 +13,7 @@ tasks:
 github:
     prebuilds:
         pullRequestsFromForks: true
+
+vscode:
+  extensions:
+    - GrapeCity.gc-excelviewer@2.1.32:Ly+iVCo1K0IFcc4V7LLvyQ==
